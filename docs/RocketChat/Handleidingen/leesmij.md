@@ -89,7 +89,7 @@ Failing to follow the community guidelines as described in this document carries
 **Please avoid inviting people in a public internet setting such as tweeting about it**. 
 
 ### Admins
-If you experience or notice abuse, harassment, discrimination, or feel unsafe, let an admin know. Here is a list of the current admins and their Rijksconnect IDs:**
+If you experience or notice abuse, harassment, discrimination, or feel unsafe, let an admin know. Here is a list of the current admins and their Rijkslounge IDs:**
 
 * **Voornaam Achternaam** - [@RijksloungeID]
 
