@@ -18,7 +18,7 @@ Dit opent het volgende scherm:
 ![Step 2](https://files.zylon.moe/u/20031922344306877143281.png)  
 1. Plak hier de inhoude van `RocketChat-DarkTheme.css`
 2. Klik op "Specify" en vul dan het volgende in:  
-   ![Step 2.5](https://files.zylon.moe/u/20031922364985477153375.png)
+   ![Step 2.5](https://files.zylon.moe/u/2011162158499752660781.png)
 3. Verzin een leuke naam en sla de custom theme op door op "Save" te drukken.
 
 Dat is het!  
