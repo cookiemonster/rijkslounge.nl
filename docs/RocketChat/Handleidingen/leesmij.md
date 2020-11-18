@@ -92,6 +92,10 @@ Failing to follow the community guidelines as described in this document carries
 If you experience or notice abuse, harassment, discrimination, or feel unsafe, let an admin know. Here is a list of the current admins and their Rijkslounge IDs:**
 
 * **Voornaam Achternaam** - [@RijksloungeID]
+* **Winko Erades** - @winko.erades
+* **Joke Oosterbaan** - @Joke.Oosterbaan
+* **Victor Gevers** - @victor
+
 
 
 *The role of the admins is to be an unbiased mediator, they will not moderate or edit anything written in the Rijkslounge unless it is required as a result of a discussed dispute.*
