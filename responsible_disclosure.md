@@ -1,5 +1,5 @@
 # Responsible Disclosure
-Bij Rijkslounge.nl vinden wij de veiligheid van onze systemen erg belangrĳk. Ondanks onze zorg voor de beveiliging van onze systemen kan het voorkomen dat er toch een zwakke plek is. Want het kan altijd beter. Zie ook ons [project board](https://github.com/cookiemonster/rijkslounge.nl/projects/1) en (issues)[https://github.com/cookiemonster/rijkslounge.nl/issues].
+Bij Rijkslounge.nl vinden wij de veiligheid van onze systemen erg belangrĳk. Ondanks onze zorg voor de beveiliging van onze systemen kan het voorkomen dat er toch een zwakke plek is. Want het kan altijd beter. Zie ook ons [project board](https://github.com/cookiemonster/rijkslounge.nl/projects/1) en [issues](https://github.com/cookiemonster/rijkslounge.nl/issues).
 
 Als u een zwakke plek in één van onze systemen heeft gevonden horen wij dit graag zodat we zo snel mogelĳk maatregelen kunnen treffen. Wij willen graag met u samenwerken om onze klanten en onze systemen beter te kunnen beschermen.
 
