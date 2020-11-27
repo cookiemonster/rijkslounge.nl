@@ -22,4 +22,4 @@ Wij houden u op de hoogte van de voortgang van het oplossen van het probleem,
 In berichtgeving over het gemelde probleem zullen wij, indien u dit wenst, uw naam vermelden als de ontdekker, en mag u uw bevindingen delen met derden (publiceren).
 Wij streven er naar om alle problemen zo snel mogelijk op te lossen en wij worden graag betrokken bij een eventuele publicatie over het probleem nadat het is opgelost.
 
-Deze Responsible Disclosure policy is gebaseerd [ResponsibleDisclosure.nl](https://responsibledisclosure.nl/)
+Deze Responsible Disclosure policy is gebaseerd op [ResponsibleDisclosure.nl](https://responsibledisclosure.nl/).
